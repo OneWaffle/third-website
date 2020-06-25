@@ -1,0 +1,27 @@
+body{
+	background-color: lightgrey;
+}
+
+<style type="text/css">
+		#first{
+			font-size: 150px;
+		}
+		h1{
+			color: blue;
+			font-size: 90px;
+			text-decoration: overline underline;
+		}
+		h2{
+			color: green;
+			font-size: 60px;
+			text-decoration: line-through;
+		}
+		h2 span {
+			font-style: italic;
+		}
+		.small{
+			font-size: 20px;
+		}
+
+		
+	</style>
